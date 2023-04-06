@@ -1,0 +1,74 @@
+
+body{
+
+}
+.container{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+ul{
+  display: flex;
+  justify-content: space-between;
+ 
+}
+.kwa{
+  width: 61px;
+  height: 61px;
+  background: url(android-chrome-192x192.png);
+}
+.nav{
+  width: 1440px;
+  height: 100px;
+  padding-left: 100px;
+  background: #FFFFFF;
+  display: flex;
+  gap: 20px;
+  justify-content: flex-end;
+  padding: left;
+  padding-right: 170px;
+}
+
+ h1{
+    width: 603px;
+    height: 126px;
+    padding-top: 60px;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 63px;
+    color: #000000;
+ }
+  h3{
+    width: 603px;
+    height: 153px;
+    font-weight: 100;
+    font-size: 24px;
+    line-height: 51px;
+    color: #000000;
+    padding-top: 60px;
+  }
+  button{
+    padding: 15px 30px;
+    gap: 10px;
+    width: 206px;
+    height: 75px;
+    background: rgba(85, 85, 255, 0.81);
+    
+    
+  }
+  h2{
+    width: 146px;
+    height: 45px;
+    font-weight: 400;
+    line-height: 45px;
+    color: #FFFFFF;
+    display: inline;
+ }
+  .container2{
+    width: 492.58px;
+    height: 328px;
+    padding-top: 80px;
+    padding-left: 40px;
+  }
+
